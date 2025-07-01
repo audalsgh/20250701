@@ -10,4 +10,5 @@ obstacles = [ {"x": 0, "y": 2, "type": "wall"},
 
 ### 함수 예제들
 https://claude.ai/public/artifacts/ecfa16b4-2106-4e7b-a637-a17f20eb3126<br>
-https://claude.ai/public/artifacts/2bacfb57-fa54-46bf-bd52-f4d858b045a4
+https://claude.ai/public/artifacts/2bacfb57-fa54-46bf-bd52-f4d858b045a4<br>
+https://claude.ai/public/artifacts/0bd88961-bc8c-43b4-b40b-aa0a27fe96df
