@@ -8,5 +8,6 @@ obstacles = [ {"x": 0, "y": 2, "type": "wall"},
               {"x": 2, "y": 4, "type": "rock"} ]
 ```
 
-### 함수 예제
-https://claude.ai/public/artifacts/ecfa16b4-2106-4e7b-a637-a17f20eb3126
+### 함수 예제들
+https://claude.ai/public/artifacts/ecfa16b4-2106-4e7b-a637-a17f20eb3126<br>
+https://claude.ai/public/artifacts/2bacfb57-fa54-46bf-bd52-f4d858b045a4
