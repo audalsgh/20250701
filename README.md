@@ -7,9 +7,9 @@ obstacles = [ {"x": 0, "y": 2, "type": "wall"},
               {"x": 1, "y": 3, "type": "tree"},
               {"x": 2, "y": 4, "type": "rock"} ]
 ```
-리스트안의 딕셔너리를 꺼내오고, 딕셔너리끼리 좌표비교함.
+x좌표 딕셔너리를 다시 리스트로 꺼내오고, 딕셔너리끼리 좌표비교함.
 ```python
-if {'x':x+1} in ({'x':o['x']} for o in obstacles):
+if {'x':x+1} in [{'x':o['x']} for o in obstacles]:
 ```
 
 ### 함수 예제들 9문제
