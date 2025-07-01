@@ -19,3 +19,6 @@ if {'x':x+1} in [{'x':o['x']} for o in obstacles]:
 4. (4번은 3번의 좌우방향만 다른 버전이라 링크는 없다.)
 5. https://claude.ai/public/artifacts/0071fea5-0417-4ac3-b753-5e47ea108c2a
 6. https://claude.ai/public/artifacts/27051f81-4a36-4075-8d2b-ec7199d9a7fb
+7. https://claude.ai/public/artifacts/13112488-2160-4216-8845-4187a58f746c
+8. https://claude.ai/public/artifacts/6ddac9ec-2dba-456b-bb09-bf6e277a8a06
+9. https://claude.ai/public/artifacts/76eafd8d-4d90-437d-be19-5bf67c275500
