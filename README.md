@@ -12,7 +12,7 @@ x좌표 딕셔너리를 다시 리스트로 꺼내오고, 딕셔너리끼리 좌
 if {'x':x+1} in [{'x':o['x']} for o in obstacles]:
 ```
 
-### 함수 예제들 9문제
+### 플로우 차트를 보고 코드를 짜보는 예제 9개
 1. https://claude.ai/public/artifacts/ecfa16b4-2106-4e7b-a637-a17f20eb3126
 2. https://claude.ai/public/artifacts/2bacfb57-fa54-46bf-bd52-f4d858b045a4
 3. https://claude.ai/public/artifacts/0bd88961-bc8c-43b4-b40b-aa0a27fe96df
