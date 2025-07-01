@@ -12,5 +12,5 @@ obstacles = [ {"x": 0, "y": 2, "type": "wall"},
 https://claude.ai/public/artifacts/ecfa16b4-2106-4e7b-a637-a17f20eb3126<br>
 https://claude.ai/public/artifacts/2bacfb57-fa54-46bf-bd52-f4d858b045a4<br>
 https://claude.ai/public/artifacts/0bd88961-bc8c-43b4-b40b-aa0a27fe96df<br>
-<br>
+4번은 3번의 좌우방향만 다른 버전이라 링크는 없다.<br>
 https://claude.ai/public/artifacts/0071fea5-0417-4ac3-b753-5e47ea108c2a
